@@ -1,92 +1,63 @@
 # JARVIS-AI-ASSISTANT
 A cross-platform AI assistant with voice interaction, automation, memory and mobile integration.
-# JARVIS – AI Personal Assistant
+# JARVIS – AI Personal Assistant 🤖
 
-An intelligent, voice-controlled personal assistant designed to connect Windows and Android through AI, automation and natural language interaction.
+**An intelligent, voice-controlled personal assistant for Windows and Android.**
 
-> 🚧 **Project Status: In Development**
+JARVIS is an AI-powered personal assistant project designed to make everyday digital tasks easier through natural conversations, voice commands, computer automation and intelligent assistance.
 
-## About the Project
+🚧 **Status:** Under Development
 
-JARVIS is a personal AI assistant inspired by the concept of an intelligent virtual assistant. The goal is to create a system that can understand voice commands, answer questions, automate everyday computer tasks and assist with personal productivity.
+## ✨ Planned Features
 
-The project aims to combine cloud-based AI with lightweight local AI models to provide a flexible and responsive experience.
-
-## Planned Features
-
-- 🎙️ Voice commands and wake-word detection
+- 🎙️ Voice interaction and wake-word detection
 - 🤖 AI-powered conversations
-- 🧠 Long-term memory and conversation history
+- 🧠 Long-term memory
 - 💻 Windows application and system automation
-- 🌐 Internet search and information retrieval
-- 📱 Android phone integration
-- 📧 Email and calendar assistance
-- 👁️ Camera and computer vision capabilities
+- 🌐 Internet search
+- 📱 Android integration
+- 📧 Email and calendar management
+- 👁️ Computer vision
 - 🔔 Smart notifications and reminders
-- 🎮 Gaming mode to reduce background resource usage
+- 🎮 Gaming mode for reduced background resource usage
 - 🖥️ Futuristic interactive dashboard
 
-*Features will be added progressively as development continues.*
+## 🛠️ Planned Technology Stack
 
-## Technology Stack
+- Python
+- JavaScript and TypeScript
+- React
+- FastAPI
+- SQLite
+- Ollama
+- Cloud AI APIs
 
-| Technology | Purpose |
-|---|---|
-| Python | AI backend and automation |
-| JavaScript / TypeScript | Frontend development |
-| React | User interface |
-| FastAPI | Backend API |
-| SQLite | Data storage and memory |
-| Ollama | Local AI models |
-| AI APIs | Cloud-based intelligence |
-| HTML / CSS | Interface design |
+## 🏗️ Development Roadmap
 
-## Project Architecture
+- [ ] Project setup and architecture
+- [ ] AI integration
+- [ ] Voice recognition
+- [ ] Wake-word detection
+- [ ] Windows automation
+- [ ] Long-term memory
+- [ ] Desktop dashboard
+- [ ] Android integration
+- [ ] Productivity automation
+- [ ] Computer vision
+- [ ] Gaming mode
+- [ ] Security and performance optimization
 
-The project is planned around five main components:
+## 🔐 Security
 
-1. **AI Engine:** Handles conversations, reasoning and task planning.
-2. **Voice System:** Handles speech recognition, wake-word detection and voice responses.
-3. **Automation Engine:** Performs approved computer tasks.
-4. **Memory System:** Stores useful information and conversation history.
-5. **User Interface:** Provides the desktop dashboard and mobile connectivity.
+Security is an important part of this project.
 
-## Development Roadmap
+- API keys will be stored securely.
+- Sensitive actions will require user approval.
+- Automation will use controlled permissions.
 
-- [ ] Set up the Python backend
-- [ ] Integrate an AI model
-- [ ] Implement voice recognition
-- [ ] Add wake-word detection
-- [ ] Build Windows automation
-- [ ] Implement long-term memory
-- [ ] Develop the desktop dashboard
-- [ ] Add Android connectivity
-- [ ] Integrate notifications and productivity tools
-- [ ] Implement computer vision
-- [ ] Add gaming mode
-- [ ] Improve security, testing and performance
+## 🎯 Project Objective
 
-## Security
-
-- API keys and passwords will not be committed to the repository.
-- Sensitive actions will require user confirmation.
-- Automation permissions will be restricted wherever possible.
-
-## Project Goals
-
-The objective is to develop a practical, intelligent and secure personal assistant while gaining hands-on experience in:
-
-- Artificial Intelligence and Machine Learning
-- Python programming
-- Full-stack development
-- API integration
-- Automation
-- Database management
-- Cross-platform application development
-
-## License
-
-License and third-party attribution will be finalized after the project's code dependencies and origins are established.
+To develop a practical, intelligent and secure AI assistant while exploring Artificial Intelligence, Python, automation, full-stack development and cross-platform technologies.
 
 ---
 
